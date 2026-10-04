@@ -28,6 +28,12 @@ I did not treat the website as a static brochure. I considered positioning, navi
 - practical delivery;
 - clearer customer access and conversion paths.
 
+## Technology used
+
+WordPress · Astra · Elementor · WPForms · WP Mail SMTP · Rank Math SEO · Popup Maker · HTML / CSS · Google Search Console
+
+This stack supports the website structure, responsive presentation, forms, email delivery, SEO and day-to-day site management.
+
 ## About the public version
 
 I keep production implementation and live-business assets separate where confidentiality or ownership requires it.
