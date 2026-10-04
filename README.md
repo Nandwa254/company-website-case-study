@@ -1,6 +1,6 @@
 # Company Website Delivery
 
-A case study of a business website designed to strengthen public positioning, communicate services clearly and create a more professional digital customer journey.
+I designed and built this business website to strengthen public positioning, communicate services clearly and create a more professional digital customer journey.
 
 ## What I worked on
 
@@ -12,25 +12,27 @@ A case study of a business website designed to strengthen public positioning, co
 - Booking / enquiry experience
 - Deployment
 
-## Approach
+## My approach
 
-The work focused on translating a business requirement into a public-facing website that was clear, usable and responsive across devices.
+I started with the business requirement rather than the screens.
 
-Rather than treating the website as a static brochure, the build considered positioning, navigation, content hierarchy and the actions a visitor should be able to take.
+I translated the proposition into a clearer information structure, decided what a visitor needed to understand and act on, and then built the experience across desktop and mobile.
 
-## What this demonstrates
+I did not treat the website as a static brochure. I considered positioning, navigation, content hierarchy and the actions a visitor should be able to take.
 
-- Business-to-digital translation
-- UX and content structuring
+## What I was aiming to deliver
+
+- Clear business-to-digital translation
+- Stronger UX and content structure
 - Responsive implementation
 - Practical website delivery
-- Attention to customer access and conversion paths
+- Clearer customer access and conversion paths
 
-## Public / private boundary
+## What I am making public
 
-This repository is a case study. Production implementation and live-business assets are kept separate where required.
+I am using this repository as the public case study. Production implementation and live-business assets remain separate where confidentiality or ownership requires it.
 
-## Portfolio context
+## Where this fits
 
 This project sits alongside my work in operations systems, customer portals, financial-services products and venture building.
 
