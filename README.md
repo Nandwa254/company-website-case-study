@@ -20,7 +20,7 @@ I worked out what a visitor needed to understand, what they needed to do next an
 
 I did not treat the website as a static brochure. I considered positioning, navigation, content hierarchy and the actions a visitor should be able to take.
 
-## What I was aiming for
+## Design goals
 
 - a clear translation from business requirements to the website;
 - stronger UX and content structure;
