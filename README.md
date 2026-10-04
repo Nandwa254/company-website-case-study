@@ -30,7 +30,7 @@ I did not treat the website as a static brochure. I considered positioning, navi
 
 ## What I am making public
 
-I am using this repository as the public case study. Production implementation and live-business assets remain separate where confidentiality or ownership requires it.
+I am using this repository as the public case study. I keep production implementation and live-business assets separate where confidentiality or ownership requires it.
 
 ## Where this fits
 
